@@ -987,6 +987,7 @@ markers:
       ', id: KR4d0284_krp_006-bkkkrnewl204}
   - {type: line-break, offset: 2399, content: '', id: KR4d0284_WYG_006-12a07}
   - {type: punctuation, offset: 2406, content: (, id: KR4d0284_krp_006-bkkpn1}
+  - {type: voice, offset: 2406, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 2410, content: /, id: KR4d0284_krp_006-bkkpn2}
   - {type: substitution, offset: 2412, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 2413, content: ), id: KR4d0284_krp_006-bkkpn3}
@@ -1111,6 +1112,7 @@ markers:
       ', id: KR4d0284_krp_006-bkkkrnewl229}
   - {type: line-break, offset: 2677, content: '', id: KR4d0284_WYG_006-13b05}
   - {type: punctuation, offset: 2684, content: (, id: KR4d0284_krp_006-bkkpn4}
+  - {type: voice, offset: 2684, length: 11, name: note, id: n2}
   - {type: punctuation, offset: 2690, content: /, id: KR4d0284_krp_006-bkkpn5}
   - {type: punctuation, offset: 2695, content: ), id: KR4d0284_krp_006-bkkpn6}
   - {type: 'kr:newline', offset: 2695, content: '
@@ -1228,6 +1230,7 @@ markers:
       ', id: KR4d0284_krp_006-bkkkrnewl253}
   - {type: line-break, offset: 2959, content: '', id: KR4d0284_WYG_006-15a02}
   - {type: punctuation, offset: 2966, content: (, id: KR4d0284_krp_006-bkkpn7}
+  - {type: voice, offset: 2966, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 2970, content: /, id: KR4d0284_krp_006-bkkpn8}
   - {type: punctuation, offset: 2974, content: ), id: KR4d0284_krp_006-bkkpn9}
   - {type: 'kr:newline', offset: 2974, content: '
@@ -1239,6 +1242,7 @@ markers:
       ', id: KR4d0284_krp_006-bkkkrnewl255}
   - {type: line-break, offset: 2995, content: '', id: KR4d0284_WYG_006-15a04}
   - {type: punctuation, offset: 3002, content: (, id: KR4d0284_krp_006-bkkpn10}
+  - {type: voice, offset: 3002, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 3005, content: /, id: KR4d0284_krp_006-bkkpn11}
   - {type: punctuation, offset: 3007, content: ), id: KR4d0284_krp_006-bkkpn12}
   - {type: 'kr:newline', offset: 3007, content: '
@@ -1251,6 +1255,7 @@ markers:
   - {type: line-break, offset: 3028, content: '', id: KR4d0284_WYG_006-15a06}
   - {type: substitution, offset: 3032, original: 遶, replacement: 繞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17055}}
   - {type: punctuation, offset: 3035, content: (, id: KR4d0284_krp_006-bkkpn13}
+  - {type: voice, offset: 3035, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 3037, content: /, id: KR4d0284_krp_006-bkkpn14}
   - {type: punctuation, offset: 3037, content: ), id: KR4d0284_krp_006-bkkpn15}
   - {type: 'kr:newline', offset: 3037, content: '
@@ -1388,6 +1393,7 @@ markers:
       ', id: KR4d0284_krp_006-bkkkrnewl284}
   - {type: line-break, offset: 3345, content: '', id: KR4d0284_WYG_006-16b06}
   - {type: punctuation, offset: 3352, content: (, id: KR4d0284_krp_006-bkkpn16}
+  - {type: voice, offset: 3352, length: 38, name: note, id: n6}
   - {type: substitution, offset: 3356, original: 䕶, replacement: 護, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19873}}
   - {type: substitution, offset: 3359, original: 寜, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19886}}
   - {type: punctuation, offset: 3366, content: /, id: KR4d0284_krp_006-bkkpn17}
@@ -1492,4 +1498,4 @@ markers:
 
       ', id: KR4d0284_krp_006-bkkkrnewl305}
   back: []
-hash: sha256:daaa0ab05b9ff565036371732840135beb74841b19515ac73ffd2a5421582df4
+hash: sha256:471cb76c52902f28444d708ef4a1db20be6c06f2e7bb6c3753e2683131833fab

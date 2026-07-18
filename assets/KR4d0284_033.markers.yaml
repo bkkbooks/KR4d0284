@@ -377,6 +377,7 @@ markers:
   - {type: substitution, offset: 1361, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19443}}
   - {type: substitution, offset: 1365, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 1369, content: (, id: KR4d0284_krp_033-bkkpn1}
+  - {type: voice, offset: 1369, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 1374, content: /, id: KR4d0284_krp_033-bkkpn2}
   - {type: punctuation, offset: 1374, content: ), id: KR4d0284_krp_033-bkkpn3}
   - {type: 'kr:newline', offset: 1374, content: '
@@ -1152,4 +1153,4 @@ markers:
 
       ', id: KR4d0284_krp_033-bkkkrnewl251}
   back: []
-hash: sha256:dcae99aec5a44b045ae6245043a9ae8408e3fd8f760aed115a96ac45e562ca64
+hash: sha256:84c077c9a0628e50e678bbf0b1eb6347a6915fceb0aec003f4ae2a28209cf4f1
